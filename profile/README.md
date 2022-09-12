@@ -1,4 +1,5 @@
 ## We are VPLE !
+![image 13](https://user-images.githubusercontent.com/68368617/189646237-02f526b6-51d1-4586-91ba-6da86c83d498.png)
 
 
 ### 🥬 Vple 서비스 개요
