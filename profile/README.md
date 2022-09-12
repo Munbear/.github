@@ -8,7 +8,7 @@ Vple은 증가하는 채식 인구에 맞추어 채식인들을 위해 채식 �
 ### 🥕 개발 기간 
 2022년 6월 1일 ~ 2022년 09월 14일  
 
-### 🥗 구성원
+### 🥗 멤버 구성
 - [정가영(백엔드)](https://github.com/wjdrkdud5)
 - [김성훈(백엔드)](https://github.com/kimsh2948)
 - [김익환(백엔드)](https://github.com/dlrghks2090)
