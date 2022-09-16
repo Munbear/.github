@@ -27,8 +27,12 @@ Vple은 증가하는 채식 인구에 맞추어 채식인들을 위해 채식 �
 
 
 ### 🍅 사용 기술
+- BE]
 - JAVA, Spring, AWS, MySQL(Spring Data JPA) 
-- HTML, CSS, JavaScript, Ajax, jQuery
+- [FE]
+ - HTML, CSS, JavaScript, 
+ - 프레임워크: React 
+ - 라이브러리: Styled-Components, Recoil
 
 ### 🌽 Workflow
 - https://www.figma.com/file/9rT0BaJ1v5CN1iW9dhaNf7/%EA%B4%80%EA%B4%91%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=68%3A2
